@@ -13,4 +13,4 @@
 
 [![IndexXuan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=indexxuan&layout=compact&custom_title=Weekly%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=indexxuan.indexxuan" style="opacity: 0" title="visit counter" />
+<a href="https://visitor-badge.glitch.me/badge?page_id=indexxuan.indexxuan"></a>
