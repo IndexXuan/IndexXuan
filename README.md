@@ -9,6 +9,6 @@
 
 [![IndexXuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=indexxuan&show_icons=true&custom_title=GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
-[![IndexXuan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=indexxuan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![IndexXuan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=indexxuan&layout=compact&custom_title=Weekly%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=indexxuan.indexxuan)
