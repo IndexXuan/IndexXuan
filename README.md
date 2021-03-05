@@ -2,10 +2,15 @@
 
 **Languages and Tools:**  
 
-![Vim](https://img.shields.io/badge/Vim-coc.nvim-yellowgreen)
-![Vue](https://img.shields.io/badge/Vue-VCA-brightgreen)
-![TypeScript](https://img.shields.io/badge/TypeScript-Strict-blue)
-![Eggjs](https://img.shields.io/badge/Node.js-Egg-orange)
+<a href="https://github.com/neoclide/coc.nvim" rel="nofollow">
+  <img src="https://img.shields.io/badge/Vim-coc.nvim, make vim great again-yellowgreen" />
+</a>
+<a href="https://www.typescriptlang.org/" rel="nofollow">
+  <img src="https://img.shields.io/badge/TypeScript-strict-blue" />
+</a>
+<a href="https://github.com/vuejs/composition-api" rel="nofollow">
+  <img src="https://img.shields.io/badge/Vue-2.x & VCA & TS-brightgreen" />
+</a>
 
 **Coding Stats:**  
 
