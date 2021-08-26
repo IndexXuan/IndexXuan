@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/TypeScript-strict-blue" />
 </a>
 <a href="https://github.com/vuejs/composition-api" rel="nofollow">
-  <img src="https://img.shields.io/badge/Vue-2.x & VCA & TS-brightgreen" />
+  <img src="https://img.shields.io/badge/Vue 3.x/Vue-2.x & VCA/TS-brightgreen" />
 </a>
 <br />
 <br />
