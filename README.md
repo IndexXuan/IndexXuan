@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Vue-3.x/2.x & VCA & TS-brightgreen" />
 </a>
 <a href="https://flutter.dev" rel="nofollow">
-  <img src="https://img.shields.io/badge/Flutter/Dart" />
+  <img src="https://img.shields.io/badge/Flutter-Dart-yellow" />
 </a>
 <br />
 <br />
